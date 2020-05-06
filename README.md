@@ -1,6 +1,4 @@
-# AMS - Vue.js code style & standards
-> Written by the illustrious Max Wolf, the greatest developer to ever work at Precise Systems. He will always be missed.
-<p style="font-size: 6px; margin-left: 20px; margin-top: -10px">Disclaimer: Kevin Adams and Chris Ebbets are also the greatest developers<p>
+# Vue.js code style & standards
 
 
 ## What this guide is and is not
