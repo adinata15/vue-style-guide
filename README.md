@@ -3,7 +3,7 @@
 
 ## What this guide is and is not
 
-This guide assumes that you have an understanding of Vue.js concepts and building applications in Vue.js. This guide aims to provide a clearly defined set of rules and best practices for writing code in Vue applications at Precise.
+This guide assumes that you have an understanding of Vue.js concepts and building applications in Vue.js. This guide aims to provide a clearly defined set of rules and best practices for writing code in Vue applications.
 
 This guide is _not_ a tutorial on Vue concepts, but functions to provide developers with an intentionally limited set of ways to utilize many Vue concepts to achieve a standard throughout our codebase.
 
